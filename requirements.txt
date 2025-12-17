@@ -2,5 +2,5 @@ fastapi
 uvicorn
 discord.py
 flask
-gunicorn
 Django
+gunicorn
